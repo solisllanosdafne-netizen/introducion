@@ -7,3 +7,10 @@ cada 8 BIT es 1 BYTE
 1024 BYTE es 1 KB
 1024 KB es 1 MB
 1024 MB es 1 GB                                                                                                           
+ingresar datos y desplegar pantalla
+nom = input("ingrese apellidos)
+nom = input("ingrese nombres")
+nom = input("ingrese fecha de nacimiento")
+nom = input("ingrese peso")
+nom = input("ingrese altura")
+print("hola bienvenido")
