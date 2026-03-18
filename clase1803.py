@@ -1,0 +1,7 @@
+print("hola,nom bienvenido al portal de empleos")
+print("a continuacion necesitamosque ingreses los siguientes datos")
+nom=input("ingrese nombres y apellidos ")
+nom=input("ingrese fecha de nacimiento")
+nom=input("ingrese peso")
+nom=input("ingrese altura")
+nom=input("ingrese talla de polera")
