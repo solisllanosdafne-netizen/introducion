@@ -8,11 +8,11 @@ nom=input("ingrese talla de polera")
 2 formas para # salida 
 print("hola ,nom,"tienes" ,ed, "años, tu correo es :")
 print(f"hola {nom} tienes {ed} años,tu correo es:v{correo})
+
 #Declaración de variables
 nom = ""
 ed = 0
 correo = ""
-
 
 #Entrada
 nom = ""; nom = input("Ingrese nombre: ")
@@ -21,5 +21,9 @@ correo = input("Correo electrónico: ")
 
 #Salida
 print(nom, ed, correo, sep=";")
-
 print(f"Hola {nom} tienes {ed} años, tu correo es : {correo}")
+
+otra forma de #salida
+print(nom, ed, correo, sep=";", end="")
+print(f"Hola {nom} tienes {ed} años, tu correo es : {correo}", end="ZZZ")
+
