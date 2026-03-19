@@ -5,3 +5,6 @@ nom=input("ingrese fecha de nacimiento")
 nom=input("ingrese peso")
 nom=input("ingrese altura")
 nom=input("ingrese talla de polera")
+2 formas para # salida 
+print("hola ,nom,"tienes" ,ed, "años, tu correo es :")
+print(f"hola {nom} tienes {ed} años,tu correo es:v{correo})
